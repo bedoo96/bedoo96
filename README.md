@@ -59,7 +59,7 @@ I am committed to continuous learning, advancing my expertise, and contributing 
 
 - **Programming Languages:** Python,JavaScript, Java, C++. 
 - **Machine Learning/Deep Learning:** TensorFlow, Keras, PyTorch,scikit-learn, Numpy, Pandas.  
-- **Generative AI:** Large Language Models, LangChain, LLamadex, Autogen, Swarm, Retrieval Augmnented Generation,Vector DB Hugging Face.
+- **Generative AI:** Large Language Models, LangChain,LangGraph, LLamadex, Autogen, Swarm, Retrieval Augmnented Generation,Vector DB Hugging Face.
 - **Computer Vision:** OpenCV, YOLO, Faster R-CNN,Mask-RCNN, ViT. 
 - **Project Management Tools:** Trello, Git, GitHub, Streamlit, Gradio.
 - **Data Analysis:** PowerBI, Tableau, Excel.
