@@ -39,7 +39,7 @@ I am committed to continuous learning, advancing my expertise, and contributing 
 - Automated machine learning in Azure Machine Learning
  service to create a regression model to predict NYC taxi fare prices. 
 - Utilized convolutional neural networks (CNNs) , Microsoft Azure.
--**skills:** Machine Learning, Neural Network, Microsoft Azure
+- **skills:** Machine Learning, Neural Network, Microsoft Azure
 
 ---
 
