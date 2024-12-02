@@ -35,7 +35,7 @@ I am committed to continuous learning, advancing my expertise, and contributing 
 - Utilized convolutional neural networks (CNNs) to automate monitoring and crop protection.
 -**skills:** Yolo, CometML,Deep Learning, Neural Network
 
-  ### 🐛 Taxi Fare Prediction   
+### 🚗 Taxi Fare Prediction   
 - automated machine learning in Azure Machine Learning
  service to create a regression model to predict NYC taxi fare prices. 
 - Utilized convolutional neural networks (CNNs) , Microsoft Azure.
@@ -76,10 +76,10 @@ I am committed to continuous learning, advancing my expertise, and contributing 
 ---
 
 ## 📚 Reading 
-- **Introduction to Statistical Machine Learning of Sugiyama, Masashi**
-- **Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts**
-- **Lewis Tunstall, Leandro von Werra, Thomas Wolf - Natural Language Processing with Transformers_ Building Language Applications with Hugging Face-**
--**Sebastian Raschka - Build a Large Language Model (From Scratch)**
+- ntroduction to Statistical Machine Learning of Sugiyama, Masashi
+- Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts
+- Lewis Tunstall, Leandro von Werra, Thomas Wolf - Natural Language Processing with Transformers_ Building Language Applications with Hugging Face
+- Sebastian Raschka - Build a Large Language Model (From Scratch)
 
   ---
 ## 🌍 Languages
