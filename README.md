@@ -14,7 +14,7 @@ I am committed to continuous learning, advancing my expertise, and contributing 
 **July 2024 - November 2024,**  
 - Build a system combining and Retrieval and and Simulation AI agent System to automate the using of Sedimentation-Hydrauclic model SRH-1D for analyzing Typhoon stream in Zouishui river.  
 - Analyzed Input and outpout of the Models to create alert.
-- **Skills:** LLMs, Prompt Engineering,AI Agent, RAG, Water Management, LangChain
+- **Skills:** LLMs, Prompt Engineering,AI Agent, RAG, Elastic Search, Docker,Water Management, LangChain
 
 ### 💡 Alternating Internship at Artificial Intelligence Research Center (Lab AIRC), Hanoi  
 **October 2023 - January 2024**  
@@ -36,7 +36,7 @@ I am committed to continuous learning, advancing my expertise, and contributing 
 -**skills:** Yolo, CometML,Deep Learning, Neural Network
 
 ### 🚗 Taxi Fare Prediction   
-- automated machine learning in Azure Machine Learning
+- Automated machine learning in Azure Machine Learning
  service to create a regression model to predict NYC taxi fare prices. 
 - Utilized convolutional neural networks (CNNs) , Microsoft Azure.
 -**skills:** Machine Learning, Neural Network, Microsoft Azure
@@ -59,7 +59,7 @@ I am committed to continuous learning, advancing my expertise, and contributing 
 
 - **Programming Languages:** Python,JavaScript, Java, C++. 
 - **Machine Learning/Deep Learning:** TensorFlow, Keras, PyTorch,scikit-learn, Numpy, Pandas.  
-- **Generative AI:** Large Language Models, LangChain,LLamadex, Retrieval Augmnented Generation, Hugging Face.
+- **Generative AI:** Large Language Models, LangChain, LLamadex, Autogen, Swarm, Retrieval Augmnented Generation,Vector DB Hugging Face.
 - **Computer Vision:** OpenCV, YOLO, Faster R-CNN,Mask-RCNN, ViT. 
 - **Project Management Tools:** Trello, Git, GitHub, Streamlit, Gradio.
 - **Data Analysis:** PowerBI, Tableau, Excel.
@@ -76,7 +76,7 @@ I am committed to continuous learning, advancing my expertise, and contributing 
 ---
 
 ## 📚 Reading 
-- ntroduction to Statistical Machine Learning of Sugiyama, Masashi
+- Introduction to Statistical Machine Learning of Sugiyama, Masashi
 - Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts
 - Lewis Tunstall, Leandro von Werra, Thomas Wolf - Natural Language Processing with Transformers_ Building Language Applications with Hugging Face
 - Sebastian Raschka - Build a Large Language Model (From Scratch)
