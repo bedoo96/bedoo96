@@ -4,8 +4,6 @@
 Hello, I am Obed Verneus, a dedicated Artificial Intelligence and AI/ML Engineer with Good knowledge in Generative AI. My academic journey has honed my skills in intelligent systems and multimedia, and I am currently pursuing a dual master’s degree in Computer Science.
 I am actively engaged in research and development across diverse fields, including machine learning techniques, large language models (LLMs), and AI agent systems. My experience spans academic projects and professional internships, where I have applied AI to address real-world challenges effectively.
 
-I am committed to continuous learning, advancing my expertise, and contributing to the AI community through innovative projects and academic collaborations, particularly in support of my thesis research
-
 ---
 
 ## 💼 Professional Experience
